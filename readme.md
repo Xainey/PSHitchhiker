@@ -1,6 +1,6 @@
 # PSHitchhiker
 
-![HitchHikersGuide](HitchHikersGuide.png)
+![HitchhikersGuide](HitchhikersGuide.png)
 
 This module is designed for demonstration purposes.
 
