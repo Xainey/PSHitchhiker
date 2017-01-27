@@ -1,0 +1,14 @@
+PSTOPIC
+    about_PSHitchhiker
+
+SHORT DESCRIPTION
+    PSHitchhiker ...
+
+LONG DESCRIPTION
+    PSHitchhiker ...
+
+    You can find API documentation here:
+        ...
+
+DETAILED DESCRIPTION
+   ...
